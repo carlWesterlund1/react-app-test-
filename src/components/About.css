@@ -1,0 +1,15 @@
+.about-header {
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    margin-left: 70px;
+}
+
+.about-paragraph {
+    color: black;
+    line-height: 32px;
+    margin-bottom: 30px;
+    margin-right: 700px;
+    margin-left: 70px;
+    text-align: left;
+}
