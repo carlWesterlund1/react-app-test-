@@ -42,3 +42,26 @@
     color: #fff;
     font-size: 100px;
 }
+
+.text-field {
+    max-width: 600px;
+    color: black;
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    color: #fff;
+}
+
+.newsItem {
+    max-width: 1000px;
+    margin: 2rem auto;
+    border: 2px solid;
+    padding: 1rem;
+}
+
+.img-layout {
+    padding: 1rem;
+}

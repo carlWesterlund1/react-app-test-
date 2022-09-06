@@ -1,0 +1,20 @@
+.weekschedule-header {
+    color: goldenrod;
+}
+
+.weekschedule-container {
+    background: url('../../images/img-5.jpg') center center/cover no-repeat;
+    height: 60vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px #fff (0, 0, 0, 0.2);
+    object-fit: contain;
+}
+
+.daily-program {
+    margin: 1rem auto;
+    padding: 1rem;
+    color: darkblue;
+}
