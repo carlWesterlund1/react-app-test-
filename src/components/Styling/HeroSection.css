@@ -30,6 +30,11 @@
 
 .news-item {
     margin-left: 300px;
+    background: linear-gradient(80deg, rgb(20, 20, 30), rgba(20, 20, 30, 0.4));
+    max-width: 1000px;
+    margin: 2rem auto;
+    border: 2px solid;
+    padding: 1rem;
 }
 
 @media screen and (max-width: 960px) {

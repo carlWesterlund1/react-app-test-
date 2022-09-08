@@ -55,13 +55,11 @@
     color: #fff;
 }
 
-.newsItem {
-    max-width: 1000px;
-    margin: 2rem auto;
-    border: 2px solid;
+.img-layout {
     padding: 1rem;
 }
 
-.img-layout {
-    padding: 1rem;
+.about-page {
+    background: linear-gradient(90deg, rgba(5, 150, 5), rgba(5, 150, 5, 0.5));
+    background-repeat: no-repeat;
 }

@@ -4,7 +4,7 @@ import '../../App.css';
 
 function About() {
     return (
-        <div>
+        <div className='about-container'>
             <h1 className='about-header'>AKDS</h1>
             <p className='about-paragraph'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tortor nulla, dapibus in rhoncus at,

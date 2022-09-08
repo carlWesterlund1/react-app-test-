@@ -1,10 +1,11 @@
-import React from 'react'
+import React from 'react';
 import '../App.css';
+import './Styling/HeroSection.css';
 import newsImage from '../images/img-1.jpg';
 
 function NewsItem({ header, text }) {
     return (
-        <div className='newsItem'>
+        <div className='news-item'>
             <h1 className='header'>{header}</h1>
             <img
                 alt=''
