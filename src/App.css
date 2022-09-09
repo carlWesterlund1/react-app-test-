@@ -46,7 +46,7 @@
 .text-field {
     max-width: 600px;
     color: black;
-    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+    text-shadow: -1.3px 0 #fff, 0 1.3px #fff, 1.3px 0 #fff, 0 -1.3px #fff;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }

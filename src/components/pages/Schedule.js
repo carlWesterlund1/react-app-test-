@@ -5,36 +5,37 @@ import WeekSchedule from '../WeekSchedule';
 function Schedule() {
     const weeks = [{
         weeknumber: 1,
-        monday: 'test',
-        tuesday: 'test',
-        wednesday: 'test',
-        thursday: 'test',
-        friday: 'test'
+        monday: ['monday', 'program1.1'],
+        tuesday: ['tuesday', 'program1.2'],
+        wednesday: ['wednesday', 'program1.3'],
+        thursday: ['thursday', 'program1.4'],
+        friday: ['friday', 'program1.5']
     },
     {
         weeknumber: 2,
-        monday: 'test1',
-        tuesday: 'test1',
-        wednesday: 'test1',
-        thursday: 'test1',
-        friday: 'test1'
+        monday: ['monday', 'program2.1'],
+        tuesday: ['tuesday', 'program2.2'],
+        wednesday: ['wednesday', 'program2.3'],
+        thursday: ['thursday', 'program2.4'],
+        friday: ['friday', 'program2.5']
     },
     {
         weeknumber: 3,
-        monday: 'test2',
-        tuesday: 'test2',
-        wednesday: 'test2',
-        thursday: 'test2',
-        friday: 'test2'
+        monday: ['monday', 'program3.1'],
+        tuesday: ['tuesday', 'program3.2'],
+        wednesday: ['wednesday', 'program3.3'],
+        thursday: ['thursday', 'program3.4'],
+        friday: ['friday', 'program3.5']
     },
     {
         weeknumber: 4,
-        monday: 'test3',
-        tuesday: 'test3',
-        wednesday: 'test3',
-        thursday: 'test3',
-        friday: 'test3'
-    }];
+        monday: ['monday', 'program4.1'],
+        tuesday: ['tuesday', 'program4.2'],
+        wednesday: ['wednesday', 'program4.3'],
+        thursday: ['thursday', 'program4.4'],
+        friday: ['friday', 'program4.5']
+    },
+    ];
     return (
         <div>
             <ul>

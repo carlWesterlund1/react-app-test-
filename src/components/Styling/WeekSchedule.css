@@ -16,7 +16,8 @@
 }
 
 .weekschedule-container2 {
-    height: 45vh;
+    position: absolute;
+    height: 54vh;
     width: 20%;
     background: linear-gradient(80deg, rgb(10, 200, 10), rgba(10, 200, 10, 0.5));
     border: 8px solid rgba(0, 60, 0);
@@ -26,4 +27,19 @@
     margin: 1rem auto;
     padding: 1rem;
     color: darkblue;
+}
+
+.daily-program:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 255);
+}
+
+.program-info {
+    background: linear-gradient(70deg, rgb(10, 140, 10), rgba(10, 200, 10, 0.5));
+    position: absolute;
+    top: 110px;
+    margin-left: 163px;
+    width: 200px;
+    height: 260px;
+    border: 6px solid #232;
 }
