@@ -19,7 +19,7 @@ function App() {
           <Route />
           <Route path='/schedule' exact element={<Schedule />} />
           <Route />
-          <Route path='/about' exact element={<About className='about-page' />} />
+          <Route path='/about' exact element={<About />} />
           <Route />
         </Routes>
       </Router>

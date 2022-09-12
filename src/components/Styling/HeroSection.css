@@ -37,6 +37,13 @@
     padding: 1rem;
 }
 
+.news-show-link {
+    color: aliceblue;
+    font-size: 1em;
+    padding: 1rem;
+    cursor: pointer;
+}
+
 @media screen and (max-width: 960px) {
     .hero-container>h1 {
         font-size: 60px;

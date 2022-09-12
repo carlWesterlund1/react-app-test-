@@ -29,7 +29,6 @@ function HeroSection() {
                 </Button>
             </div>
             <NewsItem
-                className='news-item'
                 header='Training starts'
                 text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tortor nulla, dapibus in rhoncus at,
                 tincidunt et lectus. Donec cursus mollis lacinia. Pellentesque ut nisi ultrices, congue diam non,
